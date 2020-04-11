@@ -1,6 +1,3 @@
-//
-// Created by zamot on 04.02.2020.
-//
 
 #include "Client.h"
 Client::Client() {
